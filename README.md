@@ -4,7 +4,7 @@ A responsive personal portfolio website showcasing my profile, education, techni
 
 ## 🌐 Live Website
 
-[View Portfolio](https://shreya-ravi-portfolio.netlify.app)
+[View Portfolio](https://shreya-ravi-mashelkar-portfolio.netlify.app
 
 ## 🚀 Technologies Used
 
