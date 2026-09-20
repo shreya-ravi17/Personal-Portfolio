@@ -2,6 +2,10 @@
 
 A responsive personal portfolio website showcasing my profile, education, technical skills, projects, achievements, certifications, and contact details.
 
+## 🌐 Live Website
+
+[View Portfolio](https://shreya-ravi-portfolio.netlify.app)
+
 ## 🚀 Technologies Used
 
 - HTML5
